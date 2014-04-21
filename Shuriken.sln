@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuriken", "Shuriken\Shuriken.csproj", "{CDE4E4D7-1EF3-4C2A-B2EC-337CDCF5695E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuriken.Tests", "Shuriken.Tests\Shuriken.Tests.csproj", "{C8778FA1-3E2E-4535-BE86-1D109086B289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuriken.Weixin", "Shuriken.Weixin\Shuriken.Weixin.csproj", "{B31520B9-2D06-4E19-B2FE-506C0893F4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuriken.Weixin.Test", "Shuriken.Weixin.Test\Shuriken.Weixin.Test.csproj", "{AA38DE36-44D1-4B5A-A708-7E00E312FDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE4E4D7-1EF3-4C2A-B2EC-337CDCF5695E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE4E4D7-1EF3-4C2A-B2EC-337CDCF5695E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE4E4D7-1EF3-4C2A-B2EC-337CDCF5695E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE4E4D7-1EF3-4C2A-B2EC-337CDCF5695E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8778FA1-3E2E-4535-BE86-1D109086B289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8778FA1-3E2E-4535-BE86-1D109086B289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8778FA1-3E2E-4535-BE86-1D109086B289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8778FA1-3E2E-4535-BE86-1D109086B289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31520B9-2D06-4E19-B2FE-506C0893F4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31520B9-2D06-4E19-B2FE-506C0893F4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31520B9-2D06-4E19-B2FE-506C0893F4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31520B9-2D06-4E19-B2FE-506C0893F4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA38DE36-44D1-4B5A-A708-7E00E312FDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA38DE36-44D1-4B5A-A708-7E00E312FDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA38DE36-44D1-4B5A-A708-7E00E312FDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA38DE36-44D1-4B5A-A708-7E00E312FDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
